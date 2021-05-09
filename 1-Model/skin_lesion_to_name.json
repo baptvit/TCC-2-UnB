@@ -1,0 +1,14 @@
+{
+  "dermatofibroma": 0,
+  "malignant-melanoma": 1,
+  "squamous-cell-carcinoma": 2,
+  "pyogenic-granuloma": 3,
+  "lentigo": 4,
+  "actinic-keratosis": 5,
+  "intraepithelial-carcinoma": 6,
+  "melanocytic-nevus": 7,
+  "seborrheic-keratosis": 8,
+  "wart": 9,
+  "basal-cell-carcinoma": 10,
+  "hemangioma": 11
+}
