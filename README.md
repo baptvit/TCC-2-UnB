@@ -78,5 +78,5 @@ Tecnicas aplicadas e discutidas no presente trabalho.
 
 - [Contribution Guide](./contributing.md)
 - [Style Guide](./STYLE_GUIDE.md)
-- [Code of Conduct](./CODE_OF_CONDUCT.md
+- [Code of Conduct](./CODE_OF_CONDUCT.md/)
 
