@@ -8,15 +8,15 @@ A good commit should always be able to complete the following sentence.
 ## Practical example:
 
 ```git
-Fix: bug in the customer model
-Feat: Add import project functionality
+fix(screen): bug in the customer model
+Feat(model): Add import project functionality
 ```
 ## commit tags
-* FIX
-* FEATURE
-* WIP
-* REFAT
-* BUMP
+* fix(scope)
+* feat(scope)
+* wip(scope)
+* refat(scope)
+* del(scope)
 
 * Use **imperative** verbal mode!
 
