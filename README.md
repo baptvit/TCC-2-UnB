@@ -1,6 +1,6 @@
 # Aplicação de técnicas de XAI em redes neurais convolucionais na classificação de lesões de pele 
-### Disciplina: Topicos Especiais de Engenharia de Software 
-### Professor: Diego Luiz Dorgam Aguilera  
+### Disciplina: Trabalho de conclusão de Curso 2  
+###  Orientador: Dr. Nilton Correia da Silva  
 
 ## Integrantes
 
