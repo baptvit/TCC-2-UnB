@@ -12,7 +12,7 @@
 
 Como a utilização de diferentes técnicas de XAI fornecem insumos para a interpretabilidade de uma rede neural convolucional aplicada na classificação de lesões de pele.
 
-Foi desenvolvido uma rede neural convolucional que classifica 9 lesões diferentes e nessa rede neural foram aplicados 2 grandes tecnicas de XAI. LIME e Tenicas baseada no calculo do gradient.
+Foi desenvolvido uma rede neural convolucional que classifica 9 lesões diferentes e nessa rede neural foram aplicados 2 grandes tecnicas de XAI: LIME e Tecnicas baseada no calculo do gradiente.
 
 ## Objetivos
 
